@@ -1,0 +1,24 @@
+.center{
+    margin: 230px auto;
+    text-align: center;
+}
+.button{
+    margin:20px;
+    padding:50px;
+    border: 1px solid black;
+}
+#pink{
+    background-color: pink;
+}
+#red{
+    background-color: red;
+}
+#skyblue{
+    background-color: skyblue;
+}
+#orange{
+    background-color: orange;
+}
+#brown{
+    background-color: brown;
+}
